@@ -15,3 +15,13 @@ jobs:
         with:
           entrypoint: uc
           args: update --path plugins.txt --jenkins-version 2.263.2 --display-updates-only
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: 'chore(deps): update plugins'
+          committer: Gareth Evans <gareth@bryncynfelin.co.uk>
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          signoff: false
+          title: 'chore(deps): update plugins'
