@@ -14,7 +14,4 @@ jobs:
         uses: docker://garethjevans/uc@main
         with:
           entrypoint: uc
-          args:
-            - --path
-            - plugins.txt
-            - --display-updates-only
+          args: --path plugins.txt --display-updates-only
