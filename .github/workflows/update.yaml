@@ -1,0 +1,16 @@
+---
+name: update
+
+on: push
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source code
+        uses: actions/checkout@v2
+
+      - name: Update
+        uses: garethjevans/uc@0.0.5
+        run: |
+          uc --path plugins.txt --display-updates-only
