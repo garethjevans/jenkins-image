@@ -39,6 +39,7 @@ git:4.5.2
 git-client:3.6.0
 github:1.32.0
 github-api:1.117
+github-autostatus:3.6.2
 github-branch-source:2.9.3
 github-checks:1.0.8
 github-label-filter:1.0.0
