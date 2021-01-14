@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Update
-        uses: garethjevans/uc@latest
+        uses: garethjevans/uc@main
         with:
           path: plugins.txt
           jenkins-version: 2.263.2
