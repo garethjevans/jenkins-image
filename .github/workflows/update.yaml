@@ -13,10 +13,10 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Update
-        uses: docker://garethjevans/uc:main
+        uses: docker://garethjevans/uc:0.0.6
         with:
           entrypoint: uc
-          args: update --path plugins.txt --jenkins-version 2.263.2 --display-updates-only
+          args: update --determine-version-from-dockerfile --display-updates-only
 
       - name: Create Pull Request
         id: cpr
