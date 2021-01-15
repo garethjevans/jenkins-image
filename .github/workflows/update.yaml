@@ -1,0 +1,29 @@
+---
+name: update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source code
+        uses: actions/checkout@v2
+
+      - name: Update
+        uses: docker://garethjevans/uc:0.0.6
+        with:
+          entrypoint: uc
+          args: update --determine-version-from-dockerfile --display-updates-only
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: 'chore(deps): update plugins'
+          committer: Gareth Evans <gareth@bryncynfelin.co.uk>
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          signoff: false
+          title: 'chore(deps): update plugins'
