@@ -16,7 +16,7 @@ jobs:
         uses: docker://garethjevans/uc:0.0.6
         with:
           entrypoint: uc
-          args: update --determine-version-from-dockerfile --display-updates-only
+          args: update --determine-version-from-dockerfile --display-updates
 
       - name: Create Pull Request
         id: cpr
