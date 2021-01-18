@@ -1,1 +1,1 @@
-buildDockerAndPublishImage('jenkins-image2', [mainBranch: 'main', registry: 'garethjevans/', credentials: 'docker-credentials'])  
+buildDockerAndPublishImage('jenkins', [mainBranch: 'main', registry: 'garethjevans/', credentials: 'docker-credentials'])  
