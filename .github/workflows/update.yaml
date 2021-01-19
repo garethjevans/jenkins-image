@@ -3,7 +3,7 @@ name: update
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
 
 jobs:
   main:
@@ -13,10 +13,10 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Update
-        uses: docker://garethjevans/uc:0.0.7
+        uses: docker://garethjevans/uc:0.0.8
         with:
           entrypoint: uc
-          args: update --determine-version-from-dockerfile --display-updates
+          args: update --determine-version-from-dockerfile --display-updates -w
 
       - name: Create Pull Request
         id: cpr
