@@ -85,7 +85,7 @@ toolenv:1.2
 variant:1.4
 warnings-ng:8.6.2
 workflow-aggregator:2.6
-workflow-api:2.40
+workflow-api:2.41
 workflow-basic-steps:2.23
 workflow-cps:2.87
 workflow-cps-global-lib:2.17
