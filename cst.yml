@@ -4,6 +4,6 @@ fileExistenceTests:
   - name: 'plugins.txt'
     path: '/usr/share/jenkins/ref/plugins.txt'
     shouldExist: true
-    permissions: '-rw-r--r--'
-    uid: 1
-    gid: 1
+  - name: 'tekton-client'
+    path: '/usr/share/jenkins/ref/plugins/tekton-client.jpi'
+    shouldExist: true
