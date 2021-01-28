@@ -1,0 +1,19 @@
+---
+name: latest-lts
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source code
+        uses: actions/checkout@v2
+
+      - name: Update
+        uses: docker://garethjevans/jv:0.0.3
+        with:
+          entrypoint: jv
+          args: get --version-identifier lts --github-action-output
