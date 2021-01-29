@@ -3,7 +3,7 @@ name: latest-lts
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/15 * * * *"
 
 jobs:
   main:
@@ -22,6 +22,6 @@ jobs:
       - name: Prepare
         id: prep
         run: |
-          FULL_VERSION=${{ steps.update.outputs.jenkins_version }}-jdk11
+          FULL_VERSION=jenkins/jenkins:${{ steps.update.outputs.jenkins_version }}-lts-jdk11
           echo $FULL_VERSION
-
+          sed 's|FROM .*|FROM '"${FULL_VERSION}"'|' Dockerfile
