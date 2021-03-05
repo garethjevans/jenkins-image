@@ -40,7 +40,7 @@ git-client:3.6.0
 github:1.33.1
 github-api:1.222
 github-autostatus:3.6.2
-github-branch-source:2.9.6
+github-branch-source:2.9.7
 github-checks:1.0.10
 github-label-filter:1.0.0
 groovy:2.3
@@ -49,7 +49,7 @@ javadoc:1.6
 jira:3.2
 job-dsl:1.77
 junit:1.48
-kubernetes:1.29.1
+kubernetes:1.29.2
 kubernetes-credentials:0.8.0
 kubernetes-credentials-provider:0.16
 ldap:1.26
@@ -83,15 +83,15 @@ timestamper:1.11.8
 token-macro:2.13
 toolenv:1.2
 variant:1.4
-warnings-ng:8.9.2
+warnings-ng:8.10.0
 workflow-aggregator:2.6
 workflow-api:2.41
 workflow-basic-steps:2.23
 workflow-cps:2.90
 workflow-cps-global-lib:2.18
-workflow-durable-task-step:2.37
+workflow-durable-task-step:2.38
 workflow-job:2.40
 workflow-multibranch:2.22
 workflow-scm-step:2.12
 workflow-step-api:2.23
-workflow-support:3.7
+workflow-support:3.8
