@@ -12,12 +12,11 @@ jobs:
       - name: Check out source code
         uses: actions/checkout@v2
 
-      - name: Update
+      - name: Jenkins LTS version
         id: update
-        uses: docker://garethjevans/jv:0.0.3
+        uses: garethjevans/jenkins-version@0.1.2
         with:
-          entrypoint: jv
-          args: get --version-identifier lts --github-action-output
+          version-identifier: lts
 
       - name: Process Version
         id: process
@@ -27,13 +26,27 @@ jobs:
           echo $FULL_VERSION
           sed -i 's|FROM .*|FROM '"${FULL_VERSION}"'|' Dockerfile
 
+      - name: Calculate Diff
+        id: diff
+        run: |
+          git diff
+
+          if [[ $(git diff --stat) != '' ]]; then
+            echo "::set-output name=changed::true"
+          else
+            echo "::set-output name=changed::false"
+          fi
+
+      - name: Update
+        if: ${{ steps.diff.outputs.changed == 'true' }}
+        uses: garethjevans/uc@0.0.15
+
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
-          commit-message: 'chore(deps): bump jenkins to ${{ steps.update.outputs.jenkins_version }}'
-          committer: Gareth Evans <gareth@bryncynfelin.co.uk>
-          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          commit-message: 'feat(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'
           signoff: false
-          title: 'chore(deps): bump jenkins to ${{ steps.update.outputs.jenkins_version }}'
+          title: 'feat(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'
+          branch: latest-lts
