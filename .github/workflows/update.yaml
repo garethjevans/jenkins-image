@@ -3,7 +3,7 @@ name: update
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/15 * * * *"
 
 jobs:
   main:
@@ -13,10 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Update
-        uses: docker://garethjevans/uc:0.0.8
-        with:
-          entrypoint: uc
-          args: update --determine-version-from-dockerfile --display-updates -w
+        uses: garethjevans/uc@0.0.15
 
       - name: Create Pull Request
         id: cpr
@@ -24,7 +21,6 @@ jobs:
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           commit-message: 'chore(deps): update plugins'
-          committer: Gareth Evans <gareth@bryncynfelin.co.uk>
-          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           signoff: false
           title: 'chore(deps): update plugins'
+          branch: update-plugins
