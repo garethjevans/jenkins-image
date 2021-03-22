@@ -3,6 +3,6 @@ buildDockerAndPublishImage('jenkins', [
     registry: 'garethjevans/', 
     credentials: 'docker-credentials',
     automaticSemanticVersioning: true,
-    gitCredentials: 'github-access-token',
+    gitCredentials: 'github-app-testserver',
     metadataFromSh: "cat Dockerfile | grep FROM | sed 's|FROM jenkins/jenkins:|+|' | sed 's|-lts-jdk11||'"
 ])  
