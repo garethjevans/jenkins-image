@@ -26,7 +26,7 @@ blueocean-rest-impl:1.24.5
 blueocean-web:1.24.5
 branch-api:2.6.3
 build-name-setter:2.1.0
-cloud-stats:0.26
+cloud-stats:0.27
 config-file-provider:3.7.0
 configuration-as-code:1.47
 credentials:2.3.15
