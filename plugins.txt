@@ -29,6 +29,7 @@ build-name-setter:2.1.0
 cloud-stats:0.27
 config-file-provider:3.7.0
 configuration-as-code:1.47
+conventional-commits:0.0.1
 credentials:2.3.15
 credentials-binding:1.24
 datadog:2.9.0
