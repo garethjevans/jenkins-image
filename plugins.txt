@@ -27,7 +27,7 @@ blueocean-web:1.24.6
 branch-api:2.6.3
 build-name-setter:2.1.0
 cloud-stats:0.27
-config-file-provider:3.7.0
+config-file-provider:3.7.1
 configuration-as-code:1.47
 conventional-commits:0.0.1
 credentials:2.3.18
