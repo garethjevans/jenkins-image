@@ -14,7 +14,7 @@ jobs:
 
       - name: Jenkins LTS version
         id: update
-        uses: garethjevans/jenkins-version@0.1.2
+        uses: jenkins-infra/jenkins-version@0.1.5
         with:
           version-identifier: lts
 
@@ -39,7 +39,7 @@ jobs:
 
       - name: Update
         if: ${{ steps.diff.outputs.changed == 'true' }}
-        uses: garethjevans/uc@0.0.15
+        uses: jenkins-infra/uc@0.1.1
 
       - name: Create Pull Request
         id: cpr
