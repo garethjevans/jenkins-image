@@ -6,7 +6,7 @@ branch-api:2.6.3
 build-name-setter:2.2.0
 cloud-stats:0.27
 config-file-provider:3.8.0
-configuration-as-code:1.48
+configuration-as-code:1.49
 conventional-commits:0.0.1
 credentials:2.3.18
 credentials-binding:1.24
@@ -69,7 +69,7 @@ workflow-aggregator:2.6
 workflow-api:2.42
 workflow-basic-steps:2.23
 workflow-cps:2.90
-workflow-cps-global-lib:2.18
+workflow-cps-global-lib:2.19
 workflow-durable-task-step:2.38
 workflow-job:2.40
 workflow-multibranch:2.23
