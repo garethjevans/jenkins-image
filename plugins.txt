@@ -6,7 +6,7 @@ branch-api:2.6.3
 build-name-setter:2.2.0
 cloud-stats:0.27
 config-file-provider:3.8.0
-configuration-as-code:1.49
+configuration-as-code:1.50
 conventional-commits:0.0.2
 credentials:2.3.18
 credentials-binding:1.24
