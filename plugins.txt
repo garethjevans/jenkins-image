@@ -57,7 +57,7 @@ script-security:1.76
 ssh-agent:1.22
 ssh-credentials:1.18.1
 support-core:2.73
-tekton-client:1.0.0-rc230
+tekton-client:1.0.0-rc237
 timestamper:1.12
 token-macro:2.15
 toolenv:1.2
