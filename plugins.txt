@@ -18,7 +18,7 @@ git-forensics:1.0.0
 github:1.33.1
 github-api:1.222
 github-autostatus:3.6.2
-github-branch-source:2.10.2
+github-branch-source:2.10.4
 github-checks:1.0.12
 github-label-filter:1.0.0
 groovy:2.3
@@ -58,7 +58,7 @@ ssh-agent:1.22
 ssh-credentials:1.18.1
 support-core:2.73
 tekton-client:1.0.0
-timestamper:1.12
+timestamper:1.13
 token-macro:2.15
 toolenv:1.2
 variant:1.4
