@@ -1,4 +1,4 @@
-ansicolor:0.7.5
+ansicolor:1.0.0
 antisamy-markup-formatter:2.1
 authentication-tokens:1.4
 basic-branch-build-strategies:1.3.2
@@ -56,7 +56,7 @@ scm-filter-branch-pr:0.5.1
 script-security:1.76
 ssh-agent:1.22
 ssh-credentials:1.18.1
-support-core:2.73
+support-core:2.74
 tekton-client:1.0.0
 timestamper:1.13
 token-macro:2.15
