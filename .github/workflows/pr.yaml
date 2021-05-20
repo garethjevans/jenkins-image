@@ -1,11 +1,11 @@
 ---
-name: docker
+name: pr
 
 on:
   pull_request:
 
 jobs:
-  main:
+  pr:
     runs-on: ubuntu-latest
     steps:
       - name: Check out source code
