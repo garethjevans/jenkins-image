@@ -29,7 +29,8 @@ jobs:
           JENKINS_VERSION=$(cat Dockerfile | grep FROM | sed 's|FROM jenkins/jenkins:|-|' | sed 's|-lts-jdk11||')
           DOCKER_IMAGE=garethjevans/jenkins
           VERSION=${{ steps.nextversion.outputs.version }}
-          TAGS="${DOCKER_IMAGE}:${VERSION}-${JENKINS_VERSION}"
+          TAGS="${DOCKER_IMAGE}:${VERSION}${JENKINS_VERSION}"
+          GIT_TAG="${VERSION}${JENKINS_VERSION}"
           echo ::set-output name=version::${VERSION}
           echo ::set-output name=jenkins-version::${JENKINS_VERSION}
           echo ::set-output name=tags::${TAGS}
