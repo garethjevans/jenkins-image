@@ -1,5 +1,5 @@
 ---
-name: cd
+name: release-drafter
 on:
   workflow_dispatch:
   push:
@@ -7,7 +7,7 @@ on:
       - main
 
 jobs:
-  deploy:
+  release-drafter:
     runs-on: ubuntu-latest
     steps:
       - name: Check out
