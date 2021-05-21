@@ -60,5 +60,9 @@ jobs:
 
       - name: Tag
         run: |
-          git tag ${{ steps.prep.outputs.version }}${{ steps.prep.outputs.jenkins-version }}
-          git push --tags
+          VERSION="${{ steps.prep.outputs.version }}${{ steps.prep.outputs.jenkins-version }}"
+          gh api -F ref=refs/tags/$VERSION -F sha=$GITHUB_SHA /repos/$GITHUB_REPOSITORY/git/refs
+          release=$(gh api /repos/$GITHUB_REPOSITORY/releases | jq -e -r '.[] | select(.draft == true and .name == "next") | .id')
+          gh api -X PATCH -F draft=false -F name=$VERSION -F tag_name=$VERSION /repos/$GITHUB_REPOSITORY/releases/$release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
