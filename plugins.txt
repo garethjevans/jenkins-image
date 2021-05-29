@@ -7,6 +7,7 @@ build-name-setter:2.2.0
 cloud-stats:0.27
 config-file-provider:3.8.0
 configuration-as-code:1.51
+configuration-as-code-groovy:1.1
 conventional-commits:0.0.2
 credentials:2.4.1
 credentials-binding:1.24
