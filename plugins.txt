@@ -8,7 +8,7 @@ cloud-stats:0.27
 config-file-provider:3.8.0
 configuration-as-code:1.51
 configuration-as-code-groovy:1.1
-conventional-commits:0.1.0
+conventional-commits:0.1.1
 credentials:2.5
 credentials-binding:1.26
 embeddable-build-status:2.0.3
@@ -25,7 +25,7 @@ github-label-filter:1.0.0
 groovy:2.4
 inline-pipeline:1.0.1
 javadoc:1.6
-jira:3.4
+jira:3.5
 job-dsl:1.77
 junit:1.50
 kubernetes:1.30.0
