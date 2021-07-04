@@ -8,14 +8,14 @@ cloud-stats:0.27
 config-file-provider:3.8.0
 configuration-as-code:1.51
 configuration-as-code-groovy:1.1
-conventional-commits:0.1.1
+conventional-commits:0.1.2
 credentials:2.5
 credentials-binding:1.26
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
 git:4.7.2
 git-client:3.7.2
-git-forensics:1.0.0
+git-forensics:1.1.0
 github:1.33.1
 github-api:1.222
 github-autostatus:3.6.2
