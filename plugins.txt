@@ -8,7 +8,7 @@ cloud-stats:0.27
 config-file-provider:3.8.1
 configuration-as-code:1.51
 configuration-as-code-groovy:1.1
-conventional-commits:0.3.0
+conventional-commits:0.4.0
 credentials:2.5
 credentials-binding:1.27
 embeddable-build-status:2.0.3
@@ -67,7 +67,7 @@ warnings-ng:9.3.0
 workflow-aggregator:2.6
 workflow-api:2.46
 workflow-basic-steps:2.23
-workflow-cps:2.92
+workflow-cps:2.93
 workflow-cps-global-lib:2.21
 workflow-durable-task-step:2.39
 workflow-job:2.41
