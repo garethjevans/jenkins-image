@@ -36,7 +36,7 @@ lockable-resources:2.11
 matrix-auth:2.6.8
 matrix-project:1.19
 metrics:4.0.2.8
-pipeline-build-step:2.14
+pipeline-build-step:2.15
 pipeline-github:2.7
 pipeline-graph-analysis:1.11
 pipeline-graph-view:45.v8d8f990ab4bf
