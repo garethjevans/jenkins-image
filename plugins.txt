@@ -8,7 +8,7 @@ cloud-stats:0.27
 config-file-provider:3.8.1
 configuration-as-code:1.51
 configuration-as-code-groovy:1.1
-conventional-commits:0.6.2
+conventional-commits:0.7.0
 credentials:2.5
 credentials-binding:1.27
 embeddable-build-status:2.0.3
