@@ -16,7 +16,7 @@ extended-read-permission:3.2
 git:4.8.2
 git-client:3.9.0
 git-forensics:1.2.0
-github:1.34.0
+github:1.34.1
 github-api:1.222
 github-autostatus:3.6.2
 github-branch-source:2.11.2
@@ -49,7 +49,7 @@ pipeline-rest-api:2.19
 pipeline-stage-step:2.5
 pipeline-stage-tags-metadata:1.9.1
 pipeline-stage-view:2.19
-pipeline-utility-steps:2.8.0
+pipeline-utility-steps:2.10.0
 plain-credentials:1.7
 prometheus:2.0.10
 scm-api:2.6.5
