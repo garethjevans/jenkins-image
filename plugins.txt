@@ -25,7 +25,7 @@ github-label-filter:1.0.0
 groovy:2.4
 inline-pipeline:1.0.1
 javadoc:1.6
-jira:3.5
+jira:3.6
 job-dsl:1.77
 junit:1.53
 kubernetes:1.30.1
