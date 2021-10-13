@@ -63,7 +63,7 @@ timestamper:1.13
 token-macro:266.v44a80cf277fd
 toolenv:1.2
 variant:1.4
-warnings-ng:9.5.0
+warnings-ng:9.5.1
 workflow-aggregator:2.6
 workflow-api:2.47
 workflow-basic-steps:2.24
