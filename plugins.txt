@@ -13,7 +13,7 @@ credentials:2.6.1
 credentials-binding:1.27
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
-git:4.9.0
+git:4.10.0
 git-client:3.10.0
 git-forensics:1.2.1
 github:1.34.1
