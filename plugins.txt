@@ -6,10 +6,10 @@ branch-api:2.7.0
 build-name-setter:2.2.0
 cloud-stats:0.27
 config-file-provider:3.8.2
-configuration-as-code:1.54
+configuration-as-code:1.55
 configuration-as-code-groovy:1.1
 conventional-commits:0.10.0
-credentials:2.6.1
+credentials:2.6.2
 credentials-binding:1.27
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
