@@ -73,5 +73,5 @@ workflow-durable-task-step:2.40
 workflow-job:2.42
 workflow-multibranch:2.26
 workflow-scm-step:2.13
-workflow-step-api:2.24
+workflow-step-api:613.v375732a042b1
 workflow-support:3.8
