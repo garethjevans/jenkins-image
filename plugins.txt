@@ -67,11 +67,11 @@ warnings-ng:9.10.2
 workflow-aggregator:2.6
 workflow-api:2.47
 workflow-basic-steps:2.24
-workflow-cps:2644.v29a793dac95a
+workflow-cps:2646.v6ed3b5b01ff1
 workflow-cps-global-lib:552.vd9cc05b8a2e1
 workflow-durable-task-step:2.40
 workflow-job:2.42
 workflow-multibranch:2.26
 workflow-scm-step:2.13
-workflow-step-api:613.v375732a042b1
-workflow-support:3.8
+workflow-step-api:615.vb09dac339255
+workflow-support:792.v1a3cd6ade3ef
