@@ -49,7 +49,7 @@ pipeline-rest-api:2.20
 pipeline-stage-step:291.vf0a8a7aeeb50
 pipeline-stage-tags-metadata:1.9.3
 pipeline-stage-view:2.20
-pipeline-utility-steps:2.11.0
+pipeline-utility-steps:2.12.0
 plain-credentials:1.7
 prometheus:2.0.10
 scm-api:595.vd5a_df5eb_0e39
@@ -65,7 +65,7 @@ toolenv:1.2
 variant:1.4
 warnings-ng:9.11.0
 workflow-aggregator:2.6
-workflow-api:1122.v7a_916f363c86
+workflow-api:1136.v7f5f1759dc16
 workflow-basic-steps:2.24
 workflow-cps:2648.va9433432b33c
 workflow-cps-global-lib:552.vd9cc05b8a2e1
