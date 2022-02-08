@@ -24,7 +24,7 @@ github-checks:1.0.16
 github-label-filter:1.0.0
 groovy:2.4
 inline-pipeline:1.0.1
-javadoc:1.6
+javadoc:217.v905b_86277a_2a_
 jira:3.6
 job-dsl:1.78.3
 junit:1.54
@@ -60,7 +60,7 @@ ssh-credentials:1.19
 support-core:2.79
 tekton-client:1.0.3
 timestamper:1.17
-token-macro:267.vcdaea6462991
+token-macro:270.v8c2ce50dc4fc
 toolenv:1.2
 variant:1.4
 warnings-ng:9.11.0
