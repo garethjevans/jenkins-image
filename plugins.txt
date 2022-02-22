@@ -28,7 +28,7 @@ javadoc:217.v905b_86277a_2a_
 jira:3.7
 job-dsl:1.78.3
 junit:1.54
-kubernetes:1.31.3
+kubernetes:3538.v6b_005a_ddced1
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
 ldap:2.8
@@ -54,7 +54,7 @@ plain-credentials:1.8
 prometheus:2.0.10
 scm-api:595.vd5a_df5eb_0e39
 scm-filter-branch-pr:0.5.1
-script-security:1131.v8b_b_5eda_c328e
+script-security:1138.v8e727069a_025
 ssh-agent:1.24.1
 ssh-credentials:1.19
 support-core:2.80
