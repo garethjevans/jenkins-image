@@ -6,7 +6,7 @@ branch-api:2.7.0
 build-name-setter:2.2.0
 cloud-stats:0.27
 config-file-provider:3.9.0
-configuration-as-code:1346.ve8cfa_3473c94
+configuration-as-code:1413.vb_1b_8cb_c67a_f4
 configuration-as-code-groovy:1.1
 conventional-commits:0.10.0
 credentials:2.6.2
@@ -45,10 +45,10 @@ pipeline-milestone-step:100.v60a_03cd446e1
 pipeline-model-api:1.9.3
 pipeline-model-definition:1.9.3
 pipeline-model-extensions:1.9.3
-pipeline-rest-api:2.21
+pipeline-rest-api:2.22
 pipeline-stage-step:291.vf0a8a7aeeb50
 pipeline-stage-tags-metadata:1.9.3
-pipeline-stage-view:2.21
+pipeline-stage-view:2.22
 pipeline-utility-steps:2.12.0
 plain-credentials:1.8
 prometheus:2.0.10
@@ -60,7 +60,7 @@ ssh-credentials:1.19
 support-core:2.80
 tekton-client:1.0.3
 timestamper:1.17
-token-macro:277.v7c8f82a_d66b_3
+token-macro:280.v97a_82642793c
 toolenv:1.2
 variant:1.4
 warnings-ng:9.11.1
