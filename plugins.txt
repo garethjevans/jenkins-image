@@ -20,7 +20,7 @@ github:1.34.2
 github-api:1.301-378.v9807bd746da5
 github-autostatus:3.6.2
 github-branch-source:2.11.4
-github-checks:1.0.17
+github-checks:1.0.18
 github-label-filter:1.0.0
 groovy:2.4
 inline-pipeline:1.0.1
@@ -28,7 +28,7 @@ javadoc:217.v905b_86277a_2a_
 jira:3.7
 job-dsl:1.78.3
 junit:1.54
-kubernetes:3538.v6b_005a_ddced1
+kubernetes:3546.v6103d89542d6
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
 ldap:2.8
