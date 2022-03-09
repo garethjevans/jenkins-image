@@ -34,7 +34,7 @@ kubernetes-credentials-provider:0.20
 ldap:2.8
 lockable-resources:2.14
 matrix-auth:3.1
-matrix-project:1.20
+matrix-project:751.v496d84c0d414
 metrics:4.1.6.1
 pipeline-build-step:2.16
 pipeline-github:2.8-138.d766e30bb08b
