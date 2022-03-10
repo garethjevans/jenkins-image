@@ -9,7 +9,7 @@ config-file-provider:3.9.0
 configuration-as-code:1414.v878271fc496f
 configuration-as-code-groovy:1.1
 conventional-commits:0.11.0
-credentials:2.6.2
+credentials:1074.v60e6c29b_b_44b_
 credentials-binding:1.27.1
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
