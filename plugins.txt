@@ -28,7 +28,7 @@ javadoc:217.v905b_86277a_2a_
 jira:3.7
 job-dsl:1.78.3
 junit:1.56
-kubernetes:3568.vde94f6b_41b_c8
+kubernetes:3578.vb_9a_92ea_9845a_
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
 ldap:2.8
@@ -42,12 +42,12 @@ pipeline-graph-analysis:188.v3a01e7973f2c
 pipeline-graph-view:51.v5a693b766483
 pipeline-input-step:446.vf27b_0b_83500e
 pipeline-milestone-step:100.v60a_03cd446e1
-pipeline-model-api:2.2064.v5eef7d0982b_e
-pipeline-model-definition:2.2064.v5eef7d0982b_e
-pipeline-model-extensions:2.2064.v5eef7d0982b_e
+pipeline-model-api:2.2075.vce74e77b_ce40
+pipeline-model-definition:2.2075.vce74e77b_ce40
+pipeline-model-extensions:2.2075.vce74e77b_ce40
 pipeline-rest-api:2.23
 pipeline-stage-step:291.vf0a8a7aeeb50
-pipeline-stage-tags-metadata:2.2064.v5eef7d0982b_e
+pipeline-stage-tags-metadata:2.2075.vce74e77b_ce40
 pipeline-stage-view:2.23
 pipeline-utility-steps:2.12.0
 plain-credentials:1.8
