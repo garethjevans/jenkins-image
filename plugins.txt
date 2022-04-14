@@ -26,7 +26,7 @@ groovy:2.4
 inline-pipeline:1.0.1
 javadoc:217.v905b_86277a_2a_
 jira:3.7.1
-job-dsl:1.78.3
+job-dsl:1.79
 junit:1.58
 kubernetes:3580.v78271e5631dc
 kubernetes-credentials:0.9.0
@@ -52,7 +52,7 @@ pipeline-stage-view:2.23
 pipeline-utility-steps:2.12.0
 plain-credentials:1.8
 prometheus:2.0.11
-scm-api:595.vd5a_df5eb_0e39
+scm-api:602.v6a_81757a_31d2
 scm-filter-branch-pr:0.5.1
 script-security:1145.vb_cf6cf6ed960
 ssh-agent:1.24.1
