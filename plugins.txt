@@ -10,7 +10,7 @@ config-file-provider:3.10.0
 configuration-as-code:1429.v09b_044a_c93de
 configuration-as-code-groovy:1.1
 conventional-commits:0.11.0
-credentials:1087.v16065d268466
+credentials:1087.1089.v2f1b_9a_b_040e4
 credentials-binding:523.vd859a_4b_122e6
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
