@@ -6,8 +6,8 @@ branch-api:2.1046.v0ca_37783ecc5
 build-name-setter:2.2.0
 checks-api:1.7.4
 cloud-stats:0.27
-cloudevents:1.0.0
 cloudbees-disk-usage-simple:0.10
+cloudevents:1.0.0
 config-file-provider:3.10.0
 configuration-as-code:1429.v09b_044a_c93de
 configuration-as-code-groovy:1.1
