@@ -64,7 +64,7 @@ ssh-agent:295.v9ca_a_1c7cc3a_a_
 ssh-credentials:277.v95c2fec1c047
 support-core:1174.vc46f6b_04d894
 tekton-client:1.0.3
-timestamper:1.17
+timestamper:1.18
 token-macro:293.v283932a_0a_b_49
 toolenv:1.2
 variant:1.4
