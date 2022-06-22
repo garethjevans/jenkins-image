@@ -15,7 +15,7 @@ configuration-as-code-groovy:1.1
 conventional-commits:0.11.2
 credentials:1087.1089.v2f1b_9a_b_040e4
 credentials-binding:523.vd859a_4b_122e6
-embeddable-build-status:2.0.3
+embeddable-build-status:2.0.4
 extended-read-permission:3.2
 git:4.11.3
 git-client:3.11.0
@@ -38,14 +38,14 @@ kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
 ldap:2.10
 lockable-resources:2.15
-matrix-auth:3.1.2
+matrix-auth:3.1.3
 matrix-project:771.v574584b_39e60
 metrics:4.1.6.2
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
 pipeline-graph-view:51.v5a693b766483
-pipeline-input-step:448.v37cea_9a_10a_70
+pipeline-input-step:449.v77f0e8b_845c4
 pipeline-milestone-step:101.vd572fef9d926
 pipeline-model-api:2.2097.v33db_b_de764b_e
 pipeline-model-definition:2.2097.v33db_b_de764b_e
@@ -54,7 +54,7 @@ pipeline-rest-api:2.24
 pipeline-stage-step:293.v200037eefcd5
 pipeline-stage-tags-metadata:2.2097.v33db_b_de764b_e
 pipeline-stage-view:2.24
-pipeline-utility-steps:2.12.2
+pipeline-utility-steps:2.13.0
 plain-credentials:1.8
 prometheus:2.0.11
 scm-api:608.vfa_f971c5a_a_e9
