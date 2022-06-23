@@ -15,7 +15,6 @@ configuration-as-code-groovy:1.1
 conventional-commits:0.11.2
 credentials:1087.1089.v2f1b_9a_b_040e4
 credentials-binding:523.vd859a_4b_122e6
-embeddable-build-status:2.0.3
 extended-read-permission:3.2
 git:4.11.3
 git-client:3.11.0
