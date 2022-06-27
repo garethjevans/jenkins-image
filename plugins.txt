@@ -8,6 +8,7 @@ checks-api:1.7.4
 cloud-stats:0.27
 cloudbees-disk-usage-simple:0.10
 cloudevents:1.0.0
+code-coverage-api:3.0.0
 command-launcher:84.v4a_97f2027398
 config-file-provider:3.10.0
 configuration-as-code:1462.v069a_b_57ff5c8
@@ -15,6 +16,7 @@ configuration-as-code-groovy:1.1
 conventional-commits:0.11.2
 credentials:1129.vef26f5df883c
 credentials-binding:523.vd859a_4b_122e6
+data-tables-api:1.12.1-2
 extended-read-permission:3.2
 git:4.11.3
 git-client:3.11.0
@@ -31,7 +33,7 @@ javadoc:217.v905b_86277a_2a_
 jdk-tool:1.5
 jira:3.7.1
 job-dsl:1.79
-junit:1119.va_a_5e9068da_d7
+junit:1119.1121.vc43d0fc45561
 kubernetes:3651.v908e7db_10d06
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
@@ -62,6 +64,7 @@ scm-filter-branch-pr:0.5.1
 script-security:1175.v4b_d517d6db_f0
 ssh-agent:295.v9ca_a_1c7cc3a_a_
 ssh-credentials:277.v95c2fec1c047
+sshd:3.242.va_db_9da_b_26a_c3
 support-core:1174.vc46f6b_04d894
 tekton-client:1.0.3
 timestamper:1.18
