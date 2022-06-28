@@ -11,7 +11,7 @@ cloudevents:1.0.0
 code-coverage-api:3.0.0
 command-launcher:84.v4a_97f2027398
 config-file-provider:3.10.0
-configuration-as-code:1462.v069a_b_57ff5c8
+configuration-as-code:1464.vd8507b_82e41a_
 configuration-as-code-groovy:1.1
 conventional-commits:0.11.2
 credentials:1129.vef26f5df883c
@@ -40,7 +40,7 @@ kubernetes-credentials-provider:0.20
 ldap:2.10
 lockable-resources:2.15
 matrix-auth:3.1.3
-matrix-project:771.v574584b_39e60
+matrix-project:772.v494f19991984
 metrics:4.1.6.2
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
@@ -63,7 +63,7 @@ scm-api:608.vfa_f971c5a_a_e9
 scm-filter-branch-pr:0.5.1
 script-security:1175.v4b_d517d6db_f0
 ssh-agent:295.v9ca_a_1c7cc3a_a_
-ssh-credentials:277.v95c2fec1c047
+ssh-credentials:287.v0c2c2889c28d
 sshd:3.242.va_db_9da_b_26a_c3
 support-core:1174.vc46f6b_04d894
 tekton-client:1.0.3
@@ -76,7 +76,7 @@ workflow-aggregator:581.v0c46fa_697ffd
 workflow-api:1164.v760c223ddb_32
 workflow-basic-steps:948.v2c72a_091b_b_68
 workflow-cps:2725.v7b_c717eb_12ce
-workflow-durable-task-step:1146.v1a_d2e603f929
+workflow-durable-task-step:1155.v79567b_e0a_2de
 workflow-job:1189.va_d37a_e9e4eda_
 workflow-multibranch:716.vc692a_e52371b_
 workflow-scm-step:400.v6b_89a_1317c9a_
