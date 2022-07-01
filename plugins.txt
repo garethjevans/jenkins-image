@@ -8,7 +8,7 @@ checks-api:1.7.4
 cloud-stats:0.27
 cloudbees-disk-usage-simple:0.10
 cloudevents:1.0.0
-code-coverage-api:3.0.0
+code-coverage-api:3.0.1
 command-launcher:84.v4a_97f2027398
 config-file-provider:3.10.0
 configuration-as-code:1464.vd8507b_82e41a_
@@ -24,7 +24,7 @@ git-forensics:1.9.0
 github:1.34.4
 github-api:1.303-400.v35c2d8258028
 github-autostatus:3.6.2
-github-branch-source:1637.vd833b_7ca_7654
+github-branch-source:1656.v77eddb_b_e95df
 github-checks:1.0.18
 github-label-filter:1.0.0
 groovy:2.4
@@ -73,7 +73,7 @@ toolenv:1.2
 variant:1.4
 warnings-ng:9.13.0
 workflow-aggregator:590.v6a_d052e5a_a_b_5
-workflow-api:1164.v760c223ddb_32
+workflow-api:1165.v02c3db_a_6b_e36
 workflow-basic-steps:948.v2c72a_091b_b_68
 workflow-cps:2725.v7b_c717eb_12ce
 workflow-durable-task-step:1155.v79567b_e0a_2de
