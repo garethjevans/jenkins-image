@@ -30,7 +30,7 @@ github-label-filter:1.0.0
 groovy:442.v817e6d937d6c
 inline-pipeline:1.0.2
 javadoc:217.v905b_86277a_2a_
-jdk-tool:1.5
+jdk-tool:55.v1b_32b_6ca_f9ca
 jira:3.7.1
 job-dsl:1.81
 junit:1119.1121.vc43d0fc45561
@@ -57,7 +57,7 @@ pipeline-stage-step:293.v200037eefcd5
 pipeline-stage-tags-metadata:2.2114.v2654ca_721309
 pipeline-stage-view:2.24
 pipeline-utility-steps:2.13.0
-plain-credentials:1.8
+plain-credentials:139.ved2b_9cf7587b
 prometheus:2.0.11
 scm-api:616.ve67136f6c77d
 scm-filter-branch-pr:0.5.1
