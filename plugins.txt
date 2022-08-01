@@ -59,7 +59,7 @@ pipeline-stage-view:2.24
 pipeline-utility-steps:2.13.0
 plain-credentials:139.ved2b_9cf7587b
 prometheus:2.0.11
-scm-api:616.ve67136f6c77d
+scm-api:620.v0a_5b_1f8054c0
 scm-filter-branch-pr:0.5.1
 script-security:1175.v4b_d517d6db_f0
 ssh-agent:295.v9ca_a_1c7cc3a_a_
