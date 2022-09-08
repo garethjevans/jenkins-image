@@ -12,8 +12,8 @@ jobs:
       - name: Check out source code
         uses: actions/checkout@v2
 
-      - name: Update
-        uses: jenkins-infra/uc@0.1.1
+      - run: ./bin/update-plugins.sh
+        name: Update plugins
 
       - name: Create Pull Request
         id: cpr
