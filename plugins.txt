@@ -14,7 +14,7 @@ config-file-provider:3.11.1
 configuration-as-code:1512.vb_79d418d5fc8
 configuration-as-code-groovy:1.1
 conventional-commits:0.11.2
-credentials:1143.vb_e8b_b_ceee347
+credentials:1189.vf61b_a_5e2f62e
 credentials-binding:523.vd859a_4b_122e6
 data-tables-api:1.12.1-3
 extended-read-permission:3.2
