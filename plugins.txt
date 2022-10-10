@@ -52,10 +52,10 @@ pipeline-milestone-step:101.vd572fef9d926
 pipeline-model-api:2.2114.v2654ca_721309
 pipeline-model-definition:2.2114.v2654ca_721309
 pipeline-model-extensions:2.2114.v2654ca_721309
-pipeline-rest-api:2.25
+pipeline-rest-api:2.26
 pipeline-stage-step:296.v5f6908f017a_5
 pipeline-stage-tags-metadata:2.2114.v2654ca_721309
-pipeline-stage-view:2.25
+pipeline-stage-view:2.26
 pipeline-utility-steps:2.13.0
 plain-credentials:139.ved2b_9cf7587b
 prometheus:2.0.11
@@ -73,7 +73,7 @@ toolenv:1.2
 variant:59.vf075fe829ccb
 warnings-ng:9.20.1
 workflow-aggregator:590.v6a_d052e5a_a_b_5
-workflow-api:1192.v2d0deb_19d212
+workflow-api:1198.v4596ea_5329b_6
 workflow-basic-steps:994.vd57e3ca_46d24
 workflow-cps:2802.v5ea_628154b_c2
 workflow-durable-task-step:1199.v02b_9244f8064
