@@ -11,7 +11,7 @@ cloudevents:1.0.0
 code-coverage-api:3.2.0
 command-launcher:90.v669d7ccb_7c31
 config-file-provider:3.11.1
-configuration-as-code:1512.vb_79d418d5fc8
+configuration-as-code:1559.v38a_b_2e3b_6b_b_7
 configuration-as-code-groovy:1.1
 conventional-commits:0.11.2
 credentials:1189.vf61b_a_5e2f62e
@@ -33,7 +33,7 @@ javadoc:226.v71211feb_e7e9
 jdk-tool:55.v1b_32b_6ca_f9ca
 jira:3.8
 job-dsl:1.81
-junit:1150.v5c2848328b_60
+junit:1153.v1c24f1a_d2553
 kubernetes:3724.v0920c1e0ec69
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:1.199.v4a_1d1f5d074f
