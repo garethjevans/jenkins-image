@@ -36,7 +36,7 @@ job-dsl:1.81
 junit:1153.v1c24f1a_d2553
 kubernetes:3724.v0920c1e0ec69
 kubernetes-credentials:0.9.0
-kubernetes-credentials-provider:1.199.v4a_1d1f5d074f
+kubernetes-credentials-provider:1.201.v11b_14c7a_0772
 ldap:2.12
 lockable-resources:2.18
 matrix-auth:3.1.5
@@ -45,7 +45,7 @@ metrics:4.2.10-389.v93143621b_050
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
-pipeline-graph-view:101.v3b_0fccec2523
+pipeline-graph-view:115.vccc17fffb_4b_8
 pipeline-groovy-lib:612.v84da_9c54906d
 pipeline-input-step:451.vf1a_a_4f405289
 pipeline-milestone-step:101.vd572fef9d926
@@ -73,10 +73,10 @@ toolenv:1.2
 variant:59.vf075fe829ccb
 warnings-ng:9.20.1
 workflow-aggregator:590.v6a_d052e5a_a_b_5
-workflow-api:1198.v4596ea_5329b_6
+workflow-api:1200.v8005c684b_a_c6
 workflow-basic-steps:994.vd57e3ca_46d24
 workflow-cps:2802.v5ea_628154b_c2
-workflow-durable-task-step:1199.v02b_9244f8064
+workflow-durable-task-step:1206.v8a_d5f86e336b
 workflow-job:1239.v71b_b_a_124a_725
 workflow-multibranch:716.vc692a_e52371b_
 workflow-scm-step:400.v6b_89a_1317c9a_
