@@ -21,7 +21,7 @@ extended-read-permission:3.2
 git:4.12.1
 git-client:3.12.1
 git-forensics:1.11.0
-github:1.35.0
+github:1.36.0
 github-api:1.303-400.v35c2d8258028
 github-autostatus:3.6.2
 github-branch-source:1695.v88de84e9f6b_9
@@ -36,7 +36,7 @@ job-dsl:1.81
 junit:1153.v1c24f1a_d2553
 kubernetes:3724.v0920c1e0ec69
 kubernetes-credentials:0.9.0
-kubernetes-credentials-provider:1.201.v11b_14c7a_0772
+kubernetes-credentials-provider:1.206.v7ce2cf7b_0c8b
 ldap:2.12
 lockable-resources:2.18
 matrix-auth:3.1.5
@@ -76,7 +76,7 @@ workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1200.v8005c684b_a_c6
 workflow-basic-steps:994.vd57e3ca_46d24
 workflow-cps:2803.v1a_f77ffcc773
-workflow-durable-task-step:1206.v8a_d5f86e336b
+workflow-durable-task-step:1210.va_1e5d77e122b
 workflow-job:1249.v7d974144cc14
 workflow-multibranch:716.vc692a_e52371b_
 workflow-scm-step:400.v6b_89a_1317c9a_
