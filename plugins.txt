@@ -4,7 +4,7 @@ authentication-tokens:1.4
 basic-branch-build-strategies:71.vc1421f89888e
 branch-api:2.1046.v0ca_37783ecc5
 build-name-setter:2.2.0
-checks-api:1.7.5
+checks-api:1.8.0
 cloud-stats:0.27
 cloudbees-disk-usage-simple:178.v1a_4d2f6359a_8
 cloudevents:1.0.0
