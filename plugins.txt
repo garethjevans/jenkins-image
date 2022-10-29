@@ -30,7 +30,7 @@ github-label-filter:1.0.0
 groovy:453.vcdb_a_c5c99890
 inline-pipeline:1.0.2
 javadoc:226.v71211feb_e7e9
-jdk-tool:55.v1b_32b_6ca_f9ca
+jdk-tool:63.v62d2fd4b_4793
 jira:3.8
 job-dsl:1.81
 junit:1153.v1c24f1a_d2553
