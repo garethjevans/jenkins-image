@@ -8,7 +8,7 @@ checks-api:1.8.0
 cloud-stats:254.v47891b_b_5b_6f6
 cloudbees-disk-usage-simple:178.v1a_4d2f6359a_8
 cloudevents:1.0.0
-code-coverage-api:3.2.0
+code-coverage-api:3.3.0
 command-launcher:90.v669d7ccb_7c31
 config-file-provider:3.11.1
 configuration-as-code:1569.vb_72405b_80249
@@ -68,7 +68,7 @@ sshd:3.249.v2dc2ea_416e33
 support-core:1229.v84a_e1b_3a_1d32
 tekton-client:1.0.3
 timestamper:1.21
-token-macro:308.v4f2b_ed62b_b_16
+token-macro:321.vd7cc1f2a_52c8
 toolenv:1.2
 variant:59.vf075fe829ccb
 warnings-ng:9.20.1
