@@ -18,7 +18,7 @@ credentials:1189.vf61b_a_5e2f62e
 credentials-binding:523.vd859a_4b_122e6
 data-tables-api:1.12.1-4
 extended-read-permission:3.2
-git:4.14.0
+git:4.14.1
 git-client:3.13.0
 git-forensics:1.11.0
 github:1.36.0
