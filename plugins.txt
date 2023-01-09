@@ -34,7 +34,7 @@ jdk-tool:63.v62d2fd4b_4793
 jira:3.8
 job-dsl:1.81
 junit:1166.va_436e268e972
-kubernetes:3743.v1fa_4c724c3b_7
+kubernetes:3794.v45d9da_33d7f1
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.206.v7ce2cf7b_0c8b
 ldap:659.v8ca_b_a_fe79fa_d
