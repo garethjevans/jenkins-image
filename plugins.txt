@@ -58,7 +58,7 @@ pipeline-stage-tags-metadata:2.2118.v31fd5b_9944b_5
 pipeline-stage-view:2.28
 pipeline-utility-steps:2.14.0
 plain-credentials:143.v1b_df8b_d3b_e48
-prometheus:2.0.11
+prometheus:2.1.0
 scm-api:631.v9143df5b_e4a_a
 scm-filter-branch-pr:0.5.1
 script-security:1228.vd93135a_2fb_25
