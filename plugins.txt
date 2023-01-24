@@ -53,7 +53,7 @@ pipeline-model-api:2.2118.v31fd5b_9944b_5
 pipeline-model-definition:2.2118.v31fd5b_9944b_5
 pipeline-model-extensions:2.2118.v31fd5b_9944b_5
 pipeline-rest-api:2.30
-pipeline-stage-step:296.v5f6908f017a_5
+pipeline-stage-step:305.ve96d0205c1c6
 pipeline-stage-tags-metadata:2.2118.v31fd5b_9944b_5
 pipeline-stage-view:2.30
 pipeline-utility-steps:2.15.0
