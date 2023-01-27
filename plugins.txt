@@ -38,7 +38,7 @@ kubernetes:3839.v43e9e4931ccb
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.209.v862c6e5fb_1ef
 ldap:659.v8ca_b_a_fe79fa_d
-lockable-resources:1113.vf66761f17f1e
+lockable-resources:1117.v157231b_03882
 matrix-auth:3.1.6
 matrix-project:785.v06b_7f47b_c631
 metrics:4.2.13-420.vea_2f17932dd6
