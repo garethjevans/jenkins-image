@@ -39,7 +39,7 @@ jobs:
 
       - name: Update
         if: ${{ steps.diff.outputs.changed == 'true' }}
-        uses: jenkins-infra/uc@0.1.1
+        uses: jenkins-infra/uc@0.1.4
 
       - name: Create Pull Request
         id: cpr
