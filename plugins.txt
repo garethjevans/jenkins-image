@@ -65,7 +65,7 @@ script-security:1229.v4880b_b_e905a_6
 ssh-agent:295.v9ca_a_1c7cc3a_a_
 ssh-credentials:305.v8f4381501156
 sshd:3.275.v9e17c10f2571
-support-core:1260.va_12d1e2d609a
+support-core:1262.vc248605ec68b
 tekton-client:1.0.3
 timestamper:1.22
 token-macro:321.vd7cc1f2a_52c8
