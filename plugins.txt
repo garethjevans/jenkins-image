@@ -1,5 +1,5 @@
 ansicolor:1.0.2
-antisamy-markup-formatter:155.v795fb_8702324
+antisamy-markup-formatter:159.v25b_c67cd35fb_
 authentication-tokens:1.4
 basic-branch-build-strategies:71.vc1421f89888e
 branch-api:2.1071.v1a_188a_562481
@@ -22,7 +22,7 @@ git:5.0.0
 git-client:4.1.0
 git-forensics:1.11.0
 github:1.37.0
-github-api:1.303-400.v35c2d8258028
+github-api:1.303-417.ve35d9dd78549
 github-autostatus:3.6.2
 github-branch-source:1701.v00cc8184df93
 github-checks:1.0.19
@@ -62,7 +62,7 @@ prometheus:2.1.1
 scm-api:631.v9143df5b_e4a_a
 scm-filter-branch-pr:0.5.1
 script-security:1229.v4880b_b_e905a_6
-ssh-agent:295.v9ca_a_1c7cc3a_a_
+ssh-agent:327.v230ecd01f86f
 ssh-credentials:305.v8f4381501156
 sshd:3.275.v9e17c10f2571
 support-core:1262.vc248605ec68b
