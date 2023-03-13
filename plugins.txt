@@ -8,7 +8,7 @@ checks-api:1.8.1
 cloud-stats:267.v577e3742c282
 cloudbees-disk-usage-simple:178.v1a_4d2f6359a_8
 cloudevents:1.0.0
-code-coverage-api:3.5.0
+code-coverage-api:4.0.0
 command-launcher:90.v669d7ccb_7c31
 config-file-provider:3.11.1
 configuration-as-code:1569.vb_72405b_80249
@@ -16,11 +16,11 @@ configuration-as-code-groovy:1.1
 conventional-commits:0.11.2
 credentials:1214.v1de940103927
 credentials-binding:523.vd859a_4b_122e6
-data-tables-api:1.12.1-4
+data-tables-api:1.13.3-2
 extended-read-permission:3.2
 git:5.0.0
 git-client:4.1.0
-git-forensics:1.11.0
+git-forensics:2.0.0
 github:1.37.0
 github-api:1.303-417.ve35d9dd78549
 github-autostatus:3.6.2
@@ -32,7 +32,7 @@ inline-pipeline:1.0.2
 javadoc:226.v71211feb_e7e9
 jdk-tool:63.v62d2fd4b_4793
 jira:3.9
-job-dsl:1.81
+job-dsl:1.81.1
 junit:1177.v90374a_ef4d09
 kubernetes:3893.v73d36f3b_9103
 kubernetes-credentials:0.10.0
@@ -71,7 +71,7 @@ timestamper:1.22
 token-macro:321.vd7cc1f2a_52c8
 toolenv:1.2
 variant:59.vf075fe829ccb
-warnings-ng:9.23.1
+warnings-ng:10.0.2
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1208.v0cc7c6e0da_9e
 workflow-basic-steps:1010.vf7a_b_98e847c1
