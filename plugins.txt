@@ -8,7 +8,7 @@ checks-api:2.0.0
 cloud-stats:267.v577e3742c282
 cloudbees-disk-usage-simple:178.v1a_4d2f6359a_8
 cloudevents:1.0.0
-code-coverage-api:4.1.0
+code-coverage-api:4.2.1
 command-launcher:90.v669d7ccb_7c31
 config-file-provider:3.11.1
 configuration-as-code:1625.v27444588cc3d
@@ -38,7 +38,7 @@ kubernetes:3909.v1f2c633e8590
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.211.vc236a_f5a_2f3c
 ldap:671.v2a_9192a_7419d
-lockable-resources:1131.vb_7c3d377e723
+lockable-resources:1141.v7c5f8f31d2ee
 matrix-auth:3.1.6
 matrix-project:785.v06b_7f47b_c631
 metrics:4.2.13-420.vea_2f17932dd6
@@ -58,7 +58,7 @@ pipeline-stage-tags-metadata:2.2125.vddb_a_44a_d605e
 pipeline-stage-view:2.32
 pipeline-utility-steps:2.15.1
 plain-credentials:143.v1b_df8b_d3b_e48
-prometheus:2.1.2
+prometheus:2.2.1
 scm-api:631.v9143df5b_e4a_a
 scm-filter-branch-pr:0.5.1
 script-security:1229.v4880b_b_e905a_6
@@ -67,7 +67,7 @@ ssh-credentials:305.v8f4381501156
 sshd:3.275.v9e17c10f2571
 support-core:1266.v6d096c154c90
 tekton-client:1.0.3
-timestamper:1.23
+timestamper:1.24
 token-macro:321.vd7cc1f2a_52c8
 toolenv:1.2
 variant:59.vf075fe829ccb
