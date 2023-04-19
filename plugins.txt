@@ -8,7 +8,7 @@ checks-api:2.0.0
 cloud-stats:267.v577e3742c282
 cloudbees-disk-usage-simple:178.v1a_4d2f6359a_8
 cloudevents:1.0.0
-code-coverage-api:4.2.2
+code-coverage-api:4.3.0
 command-launcher:90.v669d7ccb_7c31
 config-file-provider:3.11.1
 configuration-as-code:1625.v27444588cc3d
@@ -33,13 +33,13 @@ javadoc:233.vdc1a_ec702cff
 jdk-tool:63.v62d2fd4b_4793
 jira:3.9
 job-dsl:1.83
-junit:1189.v1b_e593637fa_e
+junit:1196.vb_4cf28b_c7724
 kubernetes:3923.v294a_d4250b_91
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.211.vc236a_f5a_2f3c
 ldap:671.v2a_9192a_7419d
 lockable-resources:1141.v7c5f8f31d2ee
-matrix-auth:3.1.6
+matrix-auth:3.1.7
 matrix-project:785.v06b_7f47b_c631
 metrics:4.2.13-420.vea_2f17932dd6
 pipeline-build-step:488.v8993df156e8d
@@ -58,10 +58,10 @@ pipeline-stage-tags-metadata:2.2125.vddb_a_44a_d605e
 pipeline-stage-view:2.32
 pipeline-utility-steps:2.15.1
 plain-credentials:143.v1b_df8b_d3b_e48
-prometheus:2.2.1
+prometheus:2.2.2
 scm-api:631.v9143df5b_e4a_a
 scm-filter-branch-pr:0.5.1
-script-security:1229.v4880b_b_e905a_6
+script-security:1244.ve463715a_f89c
 ssh-agent:327.v230ecd01f86f
 ssh-credentials:305.v8f4381501156
 sshd:3.275.v9e17c10f2571
