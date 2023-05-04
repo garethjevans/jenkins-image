@@ -9,7 +9,7 @@ cloud-stats:267.v577e3742c282
 cloudbees-disk-usage-simple:178.v1a_4d2f6359a_8
 cloudevents:1.0.0
 code-coverage-api:4.4.0
-command-launcher:90.v669d7ccb_7c31
+command-launcher:100.v2f6722292ee8
 config-file-provider:3.11.1
 configuration-as-code:1625.v27444588cc3d
 configuration-as-code-groovy:1.1
