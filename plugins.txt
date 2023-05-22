@@ -17,7 +17,7 @@ conventional-commits:0.11.2
 credentials:1254.vb_96f366e7b_a_d
 credentials-binding:604.vb_64480b_c56ca_
 data-tables-api:1.13.3-4
-extended-read-permission:3.2
+extended-read-permission:53.v6499940139e5
 git:5.0.2
 git-client:4.2.0
 git-forensics:2.0.0
