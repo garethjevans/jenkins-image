@@ -56,7 +56,7 @@ pipeline-rest-api:2.32
 pipeline-stage-step:305.ve96d0205c1c6
 pipeline-stage-tags-metadata:2.2133.ve46a_6113dfc3
 pipeline-stage-view:2.32
-pipeline-utility-steps:2.15.3
+pipeline-utility-steps:2.15.4
 plain-credentials:143.v1b_df8b_d3b_e48
 prometheus:2.2.2
 scm-api:672.v64378a_b_20c60
