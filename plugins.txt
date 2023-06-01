@@ -11,7 +11,7 @@ cloudevents:1.0.0
 code-coverage-api:4.6.0
 command-launcher:100.v2f6722292ee8
 config-file-provider:938.ve2b_8a_591c596
-configuration-as-code:1625.v27444588cc3d
+configuration-as-code:1646.v98b_72d209775
 configuration-as-code-groovy:1.1
 conventional-commits:0.11.2
 credentials:1254.vb_96f366e7b_a_d
@@ -31,7 +31,7 @@ groovy:453.vcdb_a_c5c99890
 inline-pipeline:1.0.2
 javadoc:233.vdc1a_ec702cff
 jdk-tool:66.vd8fa_64ee91b_d
-jira:3.9
+jira:3.10
 job-dsl:1.83
 junit:1207.va_09d5100410f
 kubernetes:3937.vd7b_82db_e347b_
@@ -61,7 +61,7 @@ plain-credentials:143.v1b_df8b_d3b_e48
 prometheus:2.2.2
 scm-api:672.v64378a_b_20c60
 scm-filter-branch-pr:61.v45f2e5f81fde
-script-security:1244.ve463715a_f89c
+script-security:1251.vfe552ed55f8d
 ssh-agent:333.v878b_53c89511
 ssh-credentials:305.v8f4381501156
 sshd:3.303.vefc7119b_ec23
