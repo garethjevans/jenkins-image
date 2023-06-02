@@ -32,7 +32,7 @@ inline-pipeline:1.0.2
 javadoc:233.vdc1a_ec702cff
 jdk-tool:66.vd8fa_64ee91b_d
 jira:3.10
-job-dsl:1.83
+job-dsl:1.84
 junit:1207.va_09d5100410f
 kubernetes:3937.vd7b_82db_e347b_
 kubernetes-credentials:0.10.0
