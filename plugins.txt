@@ -24,7 +24,7 @@ git-forensics:2.0.0
 github:1.37.1
 github-api:1.314-431.v78d72a_3fe4c3
 github-autostatus:3.6.2
-github-branch-source:1725.vd391eef681a_e
+github-branch-source:1728.v859147241f49
 github-checks:545.v79a_a_68b_ca_682
 github-label-filter:1.0.0
 groovy:453.vcdb_a_c5c99890
