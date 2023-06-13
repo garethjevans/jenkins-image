@@ -36,7 +36,7 @@ job-dsl:1.84
 junit:1207.va_09d5100410f
 kubernetes:3937.vd7b_82db_e347b_
 kubernetes-credentials:0.10.0
-kubernetes-credentials-provider:1.211.vc236a_f5a_2f3c
+kubernetes-credentials-provider:1.225.v14f9e6b_28f53
 ldap:682.v7b_544c9d1512
 lockable-resources:1156.v5e9f897ece02
 matrix-auth:3.1.8
