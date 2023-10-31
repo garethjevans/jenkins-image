@@ -60,7 +60,7 @@ pipeline-utility-steps:2.16.0
 plain-credentials:143.v1b_df8b_d3b_e48
 prometheus:2.3.3
 scm-api:676.v886669a_199a_a_
-scm-filter-branch-pr:77.vf2b_85e1970d5
+scm-filter-branch-pr:115.v4705a_3a_4df58
 script-security:1275.v23895f409fb_d
 ssh-agent:333.v878b_53c89511
 ssh-credentials:308.ve4497b_ccd8f4
